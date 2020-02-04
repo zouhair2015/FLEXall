@@ -1,4 +1,4 @@
-Package: com.dgh0st.flexall
+Package: com.zhr.flexall
 Name: FLEXall
 Depends: mobilesubstrate, libflex
 Version: 0.0.1
